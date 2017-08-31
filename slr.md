@@ -1,11 +1,11 @@
 
 
-#over Jeroen
+#over Rick
 
-**Voornaam:** Jeroen
+**Voornaam:** Rick
 
-**Achternaam:** Slemmer
+**Achternaam:** Rijnen
 
-**E-mail adres:** [Jeroen Slemmer](jslemmer@davinci.nl)
+**E-mail adres:** (Rickrijnenips@outlook.com)
 
-**Telefoon:** 0612345678
+**Telefoon:** 0631498522
