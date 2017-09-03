@@ -1,11 +1,11 @@
 
 
-#over Jeroen
+#over Pietje
 
-**Voornaam:** Jeroen
+**Voornaam:** Pietje
 
-**Achternaam:** Slemmer
+**Achternaam:** Jansen
 
-**E-mail adres:** [Jeroen Slemmer](jslemmer@davinci.nl)
+**E-mail adres:** [Peitje Jansen](pjansen@davinci.nl)
 
-**Telefoon:** 0612345678
+**Telefoon:** 060001010
